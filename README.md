@@ -1,0 +1,36 @@
+# Data analytics portfolio 📊
+
+Добро пожаловать в мой репозиторий Data analytics portfolio!
+Здесь собраны мои проекты в области аналитики данных, включая игровую аналитику, продуктовую аналитику и задачи по обработке данных.
+
+## Описание:
+В этом репозитории представлены разнообразные задачи, которые помогают продемонстрировать мои навыки в области анализа данных, включая работу с Python и SQL, обработку, визуализацию и интерпретацию данных, а также понимание продуктовой, маркетинговой и игровой аналитики. Каждое задание включает в себя подробное описание, цели и использованные технологии.
+
+
+## Содержание репозитория:
+
+### I. Директория 00_Game_Analytics
+
+| Год_id  | Проект                                   | Описание                                                        | Технологии                        | Ссылка     |
+|---------|------------------------------------------|-----------------------------------------------------------------|-----------------------------------|------------|
+| 2024id02  | **Game Analyst Test Task (Midcore Game)** | Анализ механик mid-core игры, расчет ARPU, Retention, баланс экономики. | SQL | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2024id02_game_analyst_test_task____midcore_game_analysis) |
+| 2024id03  | **SQL Game Data Analyst Task**           | Генерация данных, SQL-запросы для анализа активности пользователей. | Python, SQL           | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2024id03_sql_game_data_analyst_task) |
+| 2024id04  | **Operations Manager / Analyst. Game Monetization Analysis**     | Анализ монетизации, предложения по улучшению, пуш-уведомления.    | —                        | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2024id04_operations_manager____game_monetization_analysis) |
+| 2024id05  | **Game Analyst. Mobile Game Analysis Project**              | Анализ механик игры, рекомендации по метрикам.              | Python, SQL          | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2024id05_game_analyst____mobile_game_analysis_project) |
+| 2023id01  | **Junior Data Analyst**                  | Анализ данных игроков, теория вероятности, статистический анализ. | Python     | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2023id01_junior_data_analyst_test_task) |
+| 2022id00  | **Game analytics. Karpov_courses_final_project**|  EDA, расчет Retention, когортный анализ, проведение и интерпретация результатов A/B теста с использованием методов bootstrap, Mann-Whitney U, Chi2. | Python     | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2022id00_game_analytics___karpov_courses_final_project) |
+
+
+
+### II. Прочие проекты
+
+| Год_id  | Проект                                 | Описание                                             | Технологии                   | Ссылка     |
+|---------|----------------------------------------|-----------------------------------------------------|------------------------------|------------|
+| 2023id01 | **Product Analyst Task: Cloud Docs Usage Analysis** | Анализ одновременных подключений к облачным документам. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/2023id01_product_analyst_task____cloud_docs_analysis) |
+| 2023id02  | **Data Cleaning for a Banking Sector Company** | Очистка и обработка данных для банка. | Python, Excel VBA | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/2023id02_data_cleaning_for_a_banking_sector_company) |
+| 2022id00  | **E-commerce analysis** | EDA, когортный анализ, RFM-сегментация пользователей. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/2022id00_e_commerce_analysis____karpov_courses_project) |
+
+
+
+## Контактная информация
+Связаться со мной можно по email: i.sasimovich@yandex.by или через Telegram: [@ihar367](http://t.me/ihar367).
