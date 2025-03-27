@@ -40,8 +40,8 @@
 | Год_id  | Проект                                 | Описание                                             | Технологии                   | Ссылка     |
 |---------|----------------------------------------|-----------------------------------------------------|------------------------------|------------|
 | 2025id03 | **iGaming Company Test Task**        | Анализ KPI, SQL-аналитика, A/B-тестирование для онлайн-казино. | SQL (Clickhouse), Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/2025id03_igaming_company_test_task) |
-| 2023id01 | **Product Analyst Task: Cloud Docs Usage Analysis** | Анализ одновременных подключений к облачным документам. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/2023id01_product_analyst_task____cloud_docs_analysis) |
-| 2023id02  | **Data Cleaning for a Banking Sector Company** | Очистка и обработка данных для банка. | Python, Excel VBA | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/2023id02_data_cleaning_for_a_banking_sector_company) |
+| 2023id02 | **Product Analyst Task: Cloud Docs Usage Analysis** | Анализ одновременных подключений к облачным документам. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/2023id02_product_analyst_task____cloud_docs_analysis) |
+| 2023id01  | **Data Cleaning for a Banking Sector Company** | Очистка и обработка данных для банка. | Python, Excel VBA | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/2023id01_data_cleaning_for_a_banking_sector_company) |
 | 2022id00  | **E-commerce analysis** | EDA, когортный анализ, RFM-сегментация пользователей. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/2022id00_e_commerce_analysis____karpov_courses_project) |
 
 
