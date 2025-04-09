@@ -1,6 +1,6 @@
 # Data analytics portfolio 📊
 
-Добро пожаловать в мой репозиторий Data analytics portfolio!
+Добро пожаловать в мой репозиторий Data analytics portfolio!       
 Здесь собраны мои проекты в области аналитики данных, включая игровую аналитику, продуктовую аналитику и задачи по обработке данных.
 
 ## Обо мне:
@@ -22,12 +22,14 @@
 
 ## Содержание репозитория:
 
-### I. Директория 00_Game_Analytics
+### I. Директория 00_game_analytics
 
 | Год_id  | Проект                                   | Описание                                                        | Технологии                        | Ссылка     |
 |---------|------------------------------------------|-----------------------------------------------------------------|-----------------------------------|------------|
-| 2025id05  | **SQL Database & Queries Test Task** | Генерация данных, создание базы данных и дампа её структуры, загрузка более 5 млн строк,  составление SQL-запросов (оптимальных и не) | Python, SQL, PostgreSQL | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2025id05_sql_game_data_analyst_task) |
-| 2024id04  | **Game Analyst Test Task (Midcore Game)** | Анализ механик mid-core игры, расчет ARPU, Retention, баланс экономики. | SQL | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2024id04_game_analyst_test_task____midcore_game_analysis) |
+| 2025id06  | **Game Analyst Test Task (Adventure Game)** | Теоретическая часть: Интерпретация LTV, ARPPU, Retention. Практическая часть: Расчёт и анализ метрик вовлечения, монетизации. | Python, SQL (PostgreSQL) | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2025id06_game_analyst_test_task__adventure_game) |
+
+| 2025id05  | **SQL Database & Queries Test Task** | Генерация данных, создание базы данных и дампа её структуры, загрузка более 5 млн строк,  составление SQL-запросов (оптимальных и не) | Python, SQL (PostgreSQL) | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2025id05_sql_game_data_analyst_task) |
+| 2024id04  | **Game Analyst Test Task (Midcore Game)** | Анализ механик mid-core игры, расчет ARPU, Retention, баланс экономики. | SQL (PostgreSQL) | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2024id04_game_analyst_test_task____midcore_game_analysis) |
 | 2024id03  | **Game Analyst. Mobile Game Analysis Project**              | Анализ механик игры, рекомендации по метрикам.              | Python, SQL          | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2024id03_game_analyst____mobile_game_analysis_project) |
 | 2024id02  | **Operations Manager / Analyst. Game Monetization Analysis**     | Анализ монетизации, предложения по улучшению, пуш-уведомления.    | —                        | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2024id02_operations_manager____game_monetization_analysis) |
 | 2023id01  | **Junior Data Analyst**                  | Анализ данных игроков, теория вероятности, статистический анализ. | Python     | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/00_game_analytics/2023id01_junior_data_analyst_test_task) |
