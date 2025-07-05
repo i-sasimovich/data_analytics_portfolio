@@ -32,17 +32,16 @@
 
 | Код  | Проект                                   | Описание                                                        | Технологии                        | Ссылка     |
 |---------|------------------------------------------|-----------------------------------------------------------------|-----------------------------------|------------|
-| ga_prj_06 | **Game Analyst Test Task (Adventure Game)** | Теоретическая часть: Интерпретация LTV, ARPPU, Retention. Практическая часть: Расчёт и анализ метрик вовлечения, монетизации. | Python, SQL (PostgreSQL) | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_06_game_analyst_test_task__adventure_game) |
-| ga_prj_05  | **SQL Database & Queries Test Task** | Генерация данных, создание базы данных и дампа её структуры, загрузка более 5 млн строк,  составление SQL-запросов (оптимальных и не) | Python, SQL (PostgreSQL) | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_05_sql_game_data_analyst_task) |
-| ga_prj_04 | **Game Analyst Test Task (Midcore Game)** | Анализ механик mid-core игры, расчет ARPU, Retention, баланс экономики. | SQL (PostgreSQL) | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_04_game_analyst_test_task____midcore_game_analysis) |
-| ga_prj_03  | **Game Analyst. Mobile Game Analysis Project**              | Анализ механик игры, рекомендации по метрикам.              | Python, SQL          | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_03_game_analyst____mobile_game_analysis_project) |
-| ga_prj_02 | **Operations Manager / Analyst. Game Monetization Analysis**     | Анализ монетизации, предложения по улучшению, пуш-уведомления.    | —                        | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_02_operations_manager____game_monetization_analysis) |
-| ga_prj_01  | **Junior Data Analyst**                  | Анализ данных игроков, теория вероятности, статистический анализ. | Python     | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_01_junior_data_analyst_test_task) |
+| ga_prj_05 | **Game Analyst Test Task (Adventure Game)** | Теоретическая часть: Интерпретация LTV, ARPPU, Retention. Практическая часть: Расчёт и анализ метрик вовлечения, монетизации. | Python, SQL (PostgreSQL) | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_05_game_analyst_test_task__adventure_game) |
+| ga_prj_04  | **SQL Database & Queries Test Task** | Генерация данных, создание базы данных и дампа её структуры, загрузка более 5 млн строк,  составление SQL-запросов (оптимальных и не) | Python, SQL (PostgreSQL) | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_04_sql_game_data_analyst_task) |
+| ga_prj_03 | **Game Analyst Test Task (Midcore Game)** | Анализ механик mid-core игры, расчет ARPU, Retention, баланс экономики. | SQL (PostgreSQL) | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_03_game_analyst_test_task____midcore_game_analysis) |
+| ga_prj_02  | **Game Analyst. Mobile Game Analysis Project**              | Анализ механик игры, рекомендации по метрикам.              | Python, SQL          | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_02_game_analyst____mobile_game_analysis_project) |
+| ga_prj_01 | **Operations Manager / Analyst. Game Monetization Analysis**     | Анализ монетизации, предложения по улучшению, пуш-уведомления.    | —                        | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_01_operations_manager____game_monetization_analysis) |
 | ga_prj_00  | **Game analytics. Karpov_courses_final_project**|  EDA, расчет Retention, когортный анализ, проведение и интерпретация результатов A/B теста с использованием методов bootstrap, Mann-Whitney U, Chi2. | Python     | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_01_game_analytics_projects___karpov_courses_final_project) |
 
+-----
 
-
-### II. Прочие проекты
+### Product & Other DA Projects
 
 | Год_id  | Проект                                 | Описание                                             | Технологии                   | Ссылка     |
 |---------|----------------------------------------|-----------------------------------------------------|------------------------------|------------|
