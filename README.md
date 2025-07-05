@@ -47,7 +47,7 @@ Telegram:[@ihar367](https://t.me/ihar367)
 
 | Код   | Проект                                 | Описание                                             | Технологии                   | Ссылка     |
 |---------|----------------------------------------|-----------------------------------------------------|------------------------------|------------|
-| da_prj_03 | **iGaming Product Metrics & A/B Test**        | Анализ KPI, SQL-аналитика, A/B-тестирование для онлайн-казино. | SQL (Clickhouse), Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_03_igaming_metrics_ab_test) |
+| da_prj_03 | **iGaming KPIs & A/B Testing**        | Анализ KPI, SQL-аналитика, A/B-тестирование для онлайн-казино. | SQL (Clickhouse), Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_03_igaming_metrics_ab_test) |
 | da_prj_02 | **Cloud Document Usage Analysis** | Анализ одновременных подключений к облачным документам. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_02_cloud_docs_usage) |
 | da_prj_01  | **Banking Data Cleanup** | Очистка и обработка данных для банка. | Python, Excel VBA | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_01_banking_data_cleanup) |
 | da_prj_00 | **E-commerce Retention & Segmentation** | EDA, когортный анализ, RFM-сегментация пользователей. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_00_ecommerce_retention_rfm___karpov_courses_project) |
