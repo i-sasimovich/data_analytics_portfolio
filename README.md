@@ -15,7 +15,7 @@
 
 📫 Связь: [ihar.sasimovich@gmail.com](mailto:ihar.sasimovich@gmail.com) | Telegram:[@ihar367](https://t.me/ihar367)
 
-------------------------
+-----
 
 
 ## Описание репозитория:
