@@ -34,7 +34,7 @@
 
 ### I. Game Analytics Projects
 
-| Код  | Проект                                   | Описание                                                        | Технологии                        | Ссылка     |
+| Код  | Проект                                   | Описание                                                        | Стек                        | Ссылка     |
 |---------|------------------------------------------|-----------------------------------------------------------------|-----------------------------------|------------|
 | ga_prj_05 | **Adventure Game: Engagement & Monetization Metrics** | Интерпретация LTV, ARPPU, Retention. Расчёт и анализ метрик вовлечения, монетизации. | Python, SQL (PostgreSQL) | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_05_adventure_game_engagement_monetization) |
 | ga_prj_04  | **Game Data Simulation & SQL Analysis** | Генерация данных, создание базы данных и дампа её структуры, загрузка более 5 млн строк,  составление SQL-запросов (оптимальных и не) | Python, SQL (PostgreSQL) | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_04_game_data_simulation_sql) |
@@ -47,7 +47,7 @@
 
 ### Other Data Analytics Projects
 
-| Код   | Проект                                 | Описание                                             | Технологии                   | Ссылка     |
+| Код   | Проект                                 | Описание                                             | Стек                 | Ссылка     |
 |---------|----------------------------------------|-----------------------------------------------------|------------------------------|------------|
 | da_prj_03 | **iGaming KPIs & A/B Testing**        | Анализ KPI, SQL-аналитика, A/B-тестирование для онлайн-казино. | SQL (Clickhouse), Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_03_igaming_metrics_ab_test) |
 | da_prj_02 | **Cloud Document Usage Analysis** | Анализ одновременных подключений к облачным документам. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_02_cloud_docs_usage) |
