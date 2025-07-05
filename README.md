@@ -45,10 +45,10 @@
 
 | Код   | Проект                                 | Описание                                             | Технологии                   | Ссылка     |
 |---------|----------------------------------------|-----------------------------------------------------|------------------------------|------------|
-| da_prj_03 | **iGaming Company Test Task**        | Анализ KPI, SQL-аналитика, A/B-тестирование для онлайн-казино. | SQL (Clickhouse), Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/da_prj_03_igaming_company_test_task) |
-| da_prj_02 | **Product Analyst Task: Cloud Docs Usage Analysis** | Анализ одновременных подключений к облачным документам. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/da_prj_02_product_analyst_task____cloud_docs_analysis) |
-| da_prj_01  | **Data Cleaning for a Banking Sector Company** | Очистка и обработка данных для банка. | Python, Excel VBA | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/da_prj_01_data_cleaning_for_a_banking_sector_company) |
-| da_prj_00 | **E-commerce analysis** | EDA, когортный анализ, RFM-сегментация пользователей. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/da_prj_00_e_commerce_analysis____karpov_courses_project) |
+| da_prj_03 | **iGaming Company Test Task**        | Анализ KPI, SQL-аналитика, A/B-тестирование для онлайн-казино. | SQL (Clickhouse), Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_03_igaming_company_test_task) |
+| da_prj_02 | **Product Analyst Task: Cloud Docs Usage Analysis** | Анализ одновременных подключений к облачным документам. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_02_product_analyst_task____cloud_docs_analysis) |
+| da_prj_01  | **Data Cleaning for a Banking Sector Company** | Очистка и обработка данных для банка. | Python, Excel VBA | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_01_data_cleaning_for_a_banking_sector_company) |
+| da_prj_00 | **E-commerce analysis** | EDA, когортный анализ, RFM-сегментация пользователей. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_00_e_commerce_analysis____karpov_courses_project) |
 
 
 
