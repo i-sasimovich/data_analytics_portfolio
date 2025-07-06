@@ -19,7 +19,7 @@
 
 📄 [Мои резюме (2 версии)](https://drive.google.com/drive/folders/1Qs_wuJN6k6glH2xVSqN3xVwiF79qONHL?usp=drive_link)  
 
-📫 Связаться:     
+📫 Контакты:     
 * Email:[ihar.sasimovich@gmail.com](mailto:ihar.sasimovich@gmail.com)  
 * Telegram:[@ihar367](https://t.me/ihar367)
 
