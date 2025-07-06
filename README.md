@@ -29,6 +29,14 @@
 ## Описание репозитория:
 В этом репозитории представлены разнообразные задачи, которые помогают продемонстрировать мои навыки в области анализа данных, включая работу с Python и SQL, обработку, визуализацию и интерпретацию данных, а также понимание продуктовой, маркетинговой и игровой аналитики. Каждое задание включает в себя подробное описание, цели и использованные технологии.
 
+Все проекты в репозитории разделены на две группы:
+
+🔹 Game Analytics Projects — кейсы, связанные с игровой, продуктовой и маркетинговой аналитикой в GameDev: анализ метрик вовлечения и монетизации, экономика free-to-play, пользовательское поведение, геймплей и контент.
+
+🔹 Data & Product Analytics Projects — задачи из e-commerce, iGaming, облачных продуктов и банковского сектора: сегментация пользователей, A/B-тестирование, отчётность, поведенческий анализ.
+
+Хотя мне особенно интересна игровая индустрия, я открыт к задачам и в других сферах — главное, чтобы они были связаны с данными, продуктом и реальной пользой для пользователя.
+
 
 ## Содержание репозитория:
 
@@ -47,14 +55,14 @@
 
 -----
 
-### Other Data Analytics Projects
+### Data & Product Analytics Projects
 
 | Код   | Проект                                 | Описание                                             | Стек                 | Ссылка     |
 |---------|----------------------------------------|-----------------------------------------------------|------------------------------|------------|
-| da_prj_03 | **iGaming KPIs & A/B Testing**        | Анализ KPI, SQL-аналитика, A/B-тестирование для онлайн-казино. | SQL (Clickhouse), Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_03_igaming_metrics_ab_test) |
-| da_prj_02 | **Cloud Document Usage Analysis** | Анализ одновременных подключений к облачным документам. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_02_cloud_docs_usage) |
-| da_prj_01  | **Banking Data Cleanup** | Очистка и обработка данных. | Python, Excel VBA | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_01_banking_data_cleanup) |
-| da_prj_00 | **E-commerce Retention & Segmentation** | EDA, когортный анализ, RFM-сегментация пользователей. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_other_da_projects/da_prj_00_ecommerce_retention_rfm___karpov_courses_project) |
+| da_prj_03 | **iGaming KPIs & A/B Testing**        | Анализ KPI, SQL-аналитика, A/B-тестирование для онлайн-казино. | SQL (Clickhouse), Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_data_product_analytics_projects/da_prj_03_igaming_metrics_ab_test) |
+| da_prj_02 | **Cloud Document Usage Analysis** | Анализ одновременных подключений к облачным документам. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_data_product_analytics_projects/da_prj_02_cloud_docs_usage) |
+| da_prj_01  | **Banking Data Cleanup** | Очистка и обработка данных. | Python, Excel VBA | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_data_product_analytics_projects/da_prj_01_banking_data_cleanup) |
+| da_prj_00 | **E-commerce Retention & Segmentation** | EDA, когортный анализ, RFM-сегментация пользователей. | Python | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/02_data_product_analytics_projects/da_prj_00_ecommerce_retention_rfm___karpov_courses_project) |
 
 
 
