@@ -13,7 +13,7 @@
 
 Хотя мне особенно интересна игровая индустрия, я открыт к задачам и в других сферах - главное, чтобы они были связаны с данными, продуктом и реальной пользой для пользователя.
 
-Подробнее обо мне и моё CV - [здесь](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/ABOUT_ME.md) | 📧[ihar.sasimovich@gmail.com](mailto:ihar.sasimovich@gmail.com) | 📱 Telegram:[@ihar367](https://t.me/ihar367)
+Подробнее **обо мне и моё CV** - [здесь](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/ABOUT_ME.md) | 📧[ihar.sasimovich@gmail.com](mailto:ihar.sasimovich@gmail.com) | 📱 Telegram:[@ihar367](https://t.me/ihar367)
 
 
 
