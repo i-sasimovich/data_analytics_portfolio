@@ -11,7 +11,7 @@
 
 Открыт к новым вызовам и задачам, которые помогут мне расти как специалисту и приносить ценность команде.    
 
-📄 [Мои резюме (2 версии)](https://drive.google.com/drive/folders/1Qs_wuJN6k6glH2xVSqN3xVwiF79qONHL?usp=drive_link)  
+📄 [Мои резюме (2 версии)](https://drive.google.com/drive/folders/18gq0tWsUleAZzJ0501CKvFMkX5dSCqdp?usp=drive_link)  
 
 📫 Контакты:     
 * Email:[ihar.sasimovich@gmail.com](mailto:ihar.sasimovich@gmail.com)  
