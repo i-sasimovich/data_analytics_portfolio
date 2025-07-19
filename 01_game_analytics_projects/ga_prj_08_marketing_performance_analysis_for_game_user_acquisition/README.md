@@ -37,7 +37,7 @@
 | `01_final_report.xlsx` | Финальный отчёт с расчётами и графиками | [Смотреть в гугл таблицах](https://docs.google.com/spreadsheets/d/1_6OTeDcCu15q1OEBiiGj5b1Pz3NKuaM2/edit?usp=drive_link&ouid=104521593033447016990&rtpof=true&sd=true) |
 | `01_final_report (PDF version).pdf` | Отчёт в формате PDF (для быстрого просмотра на GitHub) | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_08_marketing_performance_analysis_for_game_user_acquisition/01_final_report%20(PDF%20version).pdf) |
 | 🐍 `02_EDA_and_calculations.ipynb` | Ноутбук с анализом, расчётами и визуализациями | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_08_marketing_performance_analysis_for_game_user_acquisition/02_EDA_and_calculations.ipynb) |
-| `03_test_feedback_and_response.md` | Комментарии ревьюера и мой ответ | [Смотреть]https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_08_marketing_performance_analysis_for_game_user_acquisition/(03_test_feedback_and_response.md) |
+| `03_test_feedback_and_response.md` | Комментарии ревьюера и мой ответ | [Смотреть](https://github.com/i-sasimovich/data_analytics_portfolio/tree/main/01_game_analytics_projects/ga_prj_08_marketing_performance_analysis_for_game_user_acquisition/03_test_feedback_and_response.md) |
 | `README.md` | Описание проекта (этот файл) | --- |
 
 ---
